@@ -1,11 +1,6 @@
 <h1 align="center">Olá 👋, eu sou o Tadeu</h1>
 <h3 align="center">Um desenvolvedor apaixonado por tecnologia, amante do PHP e JS.</h3>
-
-- 👯 Estou tentando colaborar com o [ZigMoney](https://github.com/valdiney/zig)
-
-- 🤔 Estou precisando de ajuda no [FreelaTime](https://github.com/tadeubarbosa/freela-time)
-
-- 📝 Escrevo alguns artigos no [https://medium.com/@tadeubarbos](https://medium.com/@tadeubarbos)
+<h5 align="center">📝 Escrevo alguns artigos no [https://medium.com/@tadeubarbos](https://medium.com/@tadeubarbos)</h5>
 
 <p align="center">
 <a href="https://dev.to/tadeubarbosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tadeubarbosa" height="20" width="20" /></a>
