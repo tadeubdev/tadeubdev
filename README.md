@@ -11,5 +11,5 @@
 </p>
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tadeubarbosa&skills=Vue,PHP,JavaScript,TypeScript&height=100"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tadeubarbosa&skills=Vue,PHP,JavaScript,TypeScript,CSS,SASS,SCSS,HTML,JSON,Less,Shell&height=100&show-other-skills=true"
 />
