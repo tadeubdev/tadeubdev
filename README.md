@@ -14,3 +14,7 @@
 <a href="https://stackoverflow.com/5278356/tadeubarbosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5278356/tadeubarbosa" height="20" width="20" /></a>
 <a href="https://instagram.com/tadeubarbos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tadeubarbos" height="20" width="20" /></a>
 </p>
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tadeubarbosa&skills=Vue,PHP,JavaScript,TypeScript&height=100"
+/>
