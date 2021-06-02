@@ -10,6 +10,8 @@
 <a href="https://instagram.com/tadeubarbos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tadeubarbos" height="20" width="20" /></a>
 </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tadeubarbosa&theme=vue)
+
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tadeubarbosa&skills=Vue,PHP,JavaScript,TypeScript,CSS,SASS,SCSS,HTML,JSON,Less,Shell&height=100&show-other-skills=true"
 />
