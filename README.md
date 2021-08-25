@@ -6,7 +6,6 @@
 <a href="https://twitter.com/tadeubarbosaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tadeubarbosaa" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/tadeubarbosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tadeubarbosa" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/5278356/tadeubarbosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5278356/tadeubarbosa" height="20" width="20" /></a>
-<a href="https://instagram.com/tadeubarbos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tadeubarbos" height="20" width="20" /></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tadeubarbosa&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tadeubarbosa&theme=vue)
