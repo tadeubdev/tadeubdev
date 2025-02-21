@@ -9,11 +9,7 @@
 <br/><br/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tadeubdev&theme=vue)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tadeubdev&theme=vue)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tadeubdev&theme=vue)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tadeubdev&theme=vue)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tadeubdev&theme=vue)
