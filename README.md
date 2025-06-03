@@ -1,5 +1,4 @@
 <h1>Olá 👋, eu sou o Tadeu</h1>
-<h3>Um desenvolvedor apaixonado por tecnologia, amante do PHP e JS.</h3>
 <h5>Escrevo alguns artigos no <a href="https://dev.to/tadeubdev">https://dev.to/tadeubdev</a></h5>
 <a href="https://dev.to/tadeubdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tadeubdev" height="20" width="20" /></a>
 <a href="https://twitter.com/tadeubdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tadeubdev" height="20" width="20" /></a>
